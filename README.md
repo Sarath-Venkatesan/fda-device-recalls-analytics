@@ -1,5 +1,10 @@
 \# FDA Medical Device Recall Analytics
 
+![Excel](https://img.shields.io/badge/Excel-Power%20Query%20%7C%20VBA-217346?logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Star%20Schema-F2C811?logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-ijson-3776AB?logo=python&logoColor=white)
+![Data](https://img.shields.io/badge/Data-openFDA-005EB8)
+
 
 
 An end-to-end analysis of U.S. FDA medical device recall data, built in Excel (Power Query, pivot tables, VBA) and Power BI (star-schema model, DAX, drill-through reporting).
@@ -91,6 +96,24 @@ Data downloaded October 2026. Analysis covers all years in the data (1930–2026
 \- The most recent year is partial (data through Sep 2026) and recalls lag in classification, so recent totals understate the true count.
 
 
+
+## Dashboards
+
+**Power BI — Overview**
+
+![Power BI Overview](screenshots/powerbi_overview.png)
+
+**Power BI — Manufacturer drill-through**
+
+![Power BI Detail](screenshots/powerbi_detail.png)
+
+**Excel — Summary sheet**
+
+![Excel Summary](screenshots/excel_summary.png)
+
+**Excel — Analysis**
+
+![Excel Analysis](screenshots/excel_analysis.png)
 
 \## Files
 
